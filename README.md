@@ -21,7 +21,7 @@ Tu apprendras à :
 
 ## 🌟 Aperçu du site
 
-🔗 [Voir le site en ligne](https://tonpseudo.github.io/mon-site-web)
+🔗 [Voir le site en ligne]([https://tonpseudo.github.io/mon-site-web](https://bleudragonviolet.github.io/-Maitrise-le-Web-par-Evan-/))
 
 📸 Aperçu rapide :
 
