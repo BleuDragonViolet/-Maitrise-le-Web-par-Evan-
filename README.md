@@ -4,7 +4,7 @@
 
 🚀 Un site ultra-moderne pour apprendre à créer, styliser et publier ton premier site web en HTML, CSS et JavaScript.
 
-![Banner](https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif)
+![giphy](https://github.com/user-attachments/assets/fc3630f7-0837-43e6-9598-c03ae37714f9)
 
 ---
 
@@ -21,11 +21,11 @@ Tu apprendras à :
 
 ## 🌟 Aperçu du site
 
-🔗 [Voir le site en ligne](https://tonpseudo.github.io/mon-site-web) *(modifie ce lien après déploiement)*
+🔗 [Voir le site en ligne](https://tonpseudo.github.io/mon-site-web)
 
 📸 Aperçu rapide :
 
-![screenshot](https://via.placeholder.com/900x500.png?text=Aperçu+du+Site+Web)
+![image](https://github.com/user-attachments/assets/18cb2062-28c2-48a7-ab75-6cccfa520a9c)
 
 ---
 
